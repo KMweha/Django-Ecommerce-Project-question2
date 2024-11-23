@@ -53,7 +53,7 @@ This project is an e-commerce application developed using Django. It includes mo
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/KMweha/Django-Ecommerce-Project.git
+   git clone https://github.com/KMweha/Django-Ecommerce-Project-question2
    cd ecommerce
 
 2. **Create a Virtual Environment**
