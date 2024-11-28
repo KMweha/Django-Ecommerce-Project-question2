@@ -37,7 +37,7 @@ This project is an e-commerce application developed using Django. It includes mo
     - Request Body:
       ```json
       {
-          "customer": 1,
+          "customer": 2,
           "total_amount": 99.99
       }
       ```
